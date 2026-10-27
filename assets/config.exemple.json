@@ -1,0 +1,9 @@
+{
+  "site": "https://exemple.fr",
+  "adapters": ["cf7"],
+  "post_types": {},
+  "consent": {"mode": "wp_consent_api", "category": "statistics"},
+  "notification_email": "contact@exemple.fr",
+  "capability": "manage_options",
+  "track_logged_in": false
+}
